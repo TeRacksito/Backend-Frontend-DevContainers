@@ -1,6 +1,6 @@
-# Proyecto-Final
+# Template
 
-Proyecto de desarrollo de aplicaciones web (PRW) del grupo D de 2ºDAW 2024-2025.
+Template
 
 ## ToDo and README
 
